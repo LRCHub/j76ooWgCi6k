@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Antares",
+  "base_artist": "常闇トワ",
+  "createdAt": "2026-03-18T11:08:07.355547Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Antares (Demo)",
+      "artist": "Novelists FR",
+      "has_synced": true,
+      "path": "select/01_Antares_(Demo)_Novelists_FR.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Antares",
+      "artist": "Novelists FR",
+      "has_synced": true,
+      "path": "select/02_Antares_Novelists_FR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Antares to Hari",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/03_Antares_to_Hari_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Antares to Hari [アンタレスと針]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/04_Antares_to_Hari_[アンタレスと針]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Antares",
+      "artist": "Novelists",
+      "has_synced": true,
+      "path": "select/05_Antares_Novelists.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Antares (Instrumental Version)",
+      "artist": "Novelists",
+      "has_synced": true,
+      "path": "select/06_Antares_(Instrumental_Version)_Novelists.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Antares",
+      "artist": "常闇トワ",
+      "has_synced": true,
+      "path": "select/07_Antares_常闇トワ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Antares (Demo)",
+      "artist": "Novelists",
+      "has_synced": true,
+      "path": "select/08_Antares_(Demo)_Novelists.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Antares to Hari",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/09_Antares_to_Hari_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Antares",
+      "artist": "Mantus",
+      "has_synced": false,
+      "path": "select/10_Antares_Mantus.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "THIRD/Antares Cr302",
+      "artist": "畑亜貴",
+      "has_synced": false,
+      "path": "select/11_THIRD_Antares_Cr302_畑亜貴.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Antares Cr302",
+      "artist": "Hata, Aki",
+      "has_synced": false,
+      "path": "select/12_Antares_Cr302_Hata,_Aki.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "THIRD/Antares Cr302",
+      "artist": "Hata, Aki",
+      "has_synced": false,
+      "path": "select/13_THIRD_Antares_Cr302_Hata,_Aki.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Antares",
+      "artist": "Kris Wu",
+      "has_synced": true,
+      "path": "select/14_Antares_Kris_Wu.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ANTARES",
+      "artist": "lynch.",
+      "has_synced": true,
+      "path": "select/15_ANTARES_lynch..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Antares",
+      "artist": "常闇トワ",
+      "has_synced": false,
+      "path": "select/pl_01_Antares_常闇トワ.txt"
+    }
+  ]
+}
